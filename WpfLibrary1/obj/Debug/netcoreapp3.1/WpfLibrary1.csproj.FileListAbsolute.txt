@@ -1,0 +1,105 @@
+C:\Users\User\Desktop\ANDERA\GameEngeen\GameEngeen\WpfLibrary1\bin\Debug\netcoreapp3.1\WpfLibrary1.deps.json
+C:\Users\User\Desktop\ANDERA\GameEngeen\GameEngeen\WpfLibrary1\bin\Debug\netcoreapp3.1\WpfLibrary1.dll
+C:\Users\User\Desktop\ANDERA\GameEngeen\GameEngeen\WpfLibrary1\bin\Debug\netcoreapp3.1\WpfLibrary1.pdb
+C:\Users\User\Desktop\ANDERA\GameEngeen\GameEngeen\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ANDERA\GameEngeen\GameEngeen\WpfLibrary1\obj\Debug\netcoreapp3.1\Window1.g.cs
+C:\Users\User\Desktop\ANDERA\GameEngeen\GameEngeen\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1_MarkupCompile.cache
+C:\Users\User\Desktop\ANDERA\GameEngeen\GameEngeen\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1_MarkupCompile.lref
+C:\Users\User\Desktop\ANDERA\GameEngeen\GameEngeen\WpfLibrary1\obj\Debug\netcoreapp3.1\Window1.baml
+C:\Users\User\Desktop\ANDERA\GameEngeen\GameEngeen\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.g.resources
+C:\Users\User\Desktop\ANDERA\GameEngeen\GameEngeen\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ANDERA\GameEngeen\GameEngeen\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ANDERA\GameEngeen\GameEngeen\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.AssemblyInfo.cs
+C:\Users\User\Desktop\ANDERA\GameEngeen\GameEngeen\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ANDERA\GameEngeen\GameEngeen\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.dll
+C:\Users\User\Desktop\ANDERA\GameEngeen\GameEngeen\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.pdb
+D:\User\Andrew\Desktop\GameEngine(Pasha)\GameEngeen\WpfLibrary1\bin\Debug\netcoreapp3.1\WpfLibrary1.deps.json
+D:\User\Andrew\Desktop\GameEngine(Pasha)\GameEngeen\WpfLibrary1\bin\Debug\netcoreapp3.1\WpfLibrary1.dll
+D:\User\Andrew\Desktop\GameEngine(Pasha)\GameEngeen\WpfLibrary1\bin\Debug\netcoreapp3.1\WpfLibrary1.pdb
+D:\User\Andrew\Desktop\GameEngine(Pasha)\GameEngeen\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.csproj.AssemblyReference.cache
+D:\User\Andrew\Desktop\GameEngine(Pasha)\GameEngeen\WpfLibrary1\obj\Debug\netcoreapp3.1\Window1.g.cs
+D:\User\Andrew\Desktop\GameEngine(Pasha)\GameEngeen\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1_MarkupCompile.cache
+D:\User\Andrew\Desktop\GameEngine(Pasha)\GameEngeen\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1_MarkupCompile.lref
+D:\User\Andrew\Desktop\GameEngine(Pasha)\GameEngeen\WpfLibrary1\obj\Debug\netcoreapp3.1\Window1.baml
+D:\User\Andrew\Desktop\GameEngine(Pasha)\GameEngeen\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.g.resources
+D:\User\Andrew\Desktop\GameEngine(Pasha)\GameEngeen\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Andrew\Desktop\GameEngine(Pasha)\GameEngeen\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.AssemblyInfoInputs.cache
+D:\User\Andrew\Desktop\GameEngine(Pasha)\GameEngeen\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.AssemblyInfo.cs
+D:\User\Andrew\Desktop\GameEngine(Pasha)\GameEngeen\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.csproj.CoreCompileInputs.cache
+D:\User\Andrew\Desktop\GameEngine(Pasha)\GameEngeen\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.dll
+D:\User\Andrew\Desktop\GameEngine(Pasha)\GameEngeen\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.pdb
+D:\User\Andrew\Desktop\GameEngine\WpfLibrary1\bin\Debug\netcoreapp3.1\WpfLibrary1.deps.json
+D:\User\Andrew\Desktop\GameEngine\WpfLibrary1\bin\Debug\netcoreapp3.1\WpfLibrary1.dll
+D:\User\Andrew\Desktop\GameEngine\WpfLibrary1\bin\Debug\netcoreapp3.1\WpfLibrary1.pdb
+D:\User\Andrew\Desktop\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.csproj.AssemblyReference.cache
+D:\User\Andrew\Desktop\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\Window1.g.cs
+D:\User\Andrew\Desktop\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1_MarkupCompile.cache
+D:\User\Andrew\Desktop\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1_MarkupCompile.lref
+D:\User\Andrew\Desktop\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\Window1.baml
+D:\User\Andrew\Desktop\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.g.resources
+D:\User\Andrew\Desktop\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Andrew\Desktop\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.AssemblyInfoInputs.cache
+D:\User\Andrew\Desktop\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.AssemblyInfo.cs
+D:\User\Andrew\Desktop\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.csproj.CoreCompileInputs.cache
+D:\User\Andrew\Desktop\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.dll
+D:\User\Andrew\Desktop\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.pdb
+D:\User\Andrew\Desktop\GameEngeen(AndrewVersion)\GameEngine\WpfLibrary1\bin\Debug\netcoreapp3.1\WpfLibrary1.deps.json
+D:\User\Andrew\Desktop\GameEngeen(AndrewVersion)\GameEngine\WpfLibrary1\bin\Debug\netcoreapp3.1\WpfLibrary1.dll
+D:\User\Andrew\Desktop\GameEngeen(AndrewVersion)\GameEngine\WpfLibrary1\bin\Debug\netcoreapp3.1\WpfLibrary1.pdb
+D:\User\Andrew\Desktop\GameEngeen(AndrewVersion)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.csproj.AssemblyReference.cache
+D:\User\Andrew\Desktop\GameEngeen(AndrewVersion)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\Window1.g.cs
+D:\User\Andrew\Desktop\GameEngeen(AndrewVersion)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1_MarkupCompile.cache
+D:\User\Andrew\Desktop\GameEngeen(AndrewVersion)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1_MarkupCompile.lref
+D:\User\Andrew\Desktop\GameEngeen(AndrewVersion)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\Window1.baml
+D:\User\Andrew\Desktop\GameEngeen(AndrewVersion)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.g.resources
+D:\User\Andrew\Desktop\GameEngeen(AndrewVersion)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Andrew\Desktop\GameEngeen(AndrewVersion)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.AssemblyInfoInputs.cache
+D:\User\Andrew\Desktop\GameEngeen(AndrewVersion)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.AssemblyInfo.cs
+D:\User\Andrew\Desktop\GameEngeen(AndrewVersion)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.csproj.CoreCompileInputs.cache
+D:\User\Andrew\Desktop\GameEngeen(AndrewVersion)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.dll
+D:\User\Andrew\Desktop\GameEngeen(AndrewVersion)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.pdb
+C:\Users\Asentaja\Desktop\GameEngeen(AndrewVersion)\GameEngine\WpfLibrary1\bin\Debug\netcoreapp3.1\WpfLibrary1.deps.json
+C:\Users\Asentaja\Desktop\GameEngeen(AndrewVersion)\GameEngine\WpfLibrary1\bin\Debug\netcoreapp3.1\WpfLibrary1.dll
+C:\Users\Asentaja\Desktop\GameEngeen(AndrewVersion)\GameEngine\WpfLibrary1\bin\Debug\netcoreapp3.1\WpfLibrary1.pdb
+C:\Users\Asentaja\Desktop\GameEngeen(AndrewVersion)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.csproj.AssemblyReference.cache
+C:\Users\Asentaja\Desktop\GameEngeen(AndrewVersion)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\Window1.g.cs
+C:\Users\Asentaja\Desktop\GameEngeen(AndrewVersion)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1_MarkupCompile.cache
+C:\Users\Asentaja\Desktop\GameEngeen(AndrewVersion)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1_MarkupCompile.lref
+C:\Users\Asentaja\Desktop\GameEngeen(AndrewVersion)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\Window1.baml
+C:\Users\Asentaja\Desktop\GameEngeen(AndrewVersion)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.g.resources
+C:\Users\Asentaja\Desktop\GameEngeen(AndrewVersion)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asentaja\Desktop\GameEngeen(AndrewVersion)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.AssemblyInfoInputs.cache
+C:\Users\Asentaja\Desktop\GameEngeen(AndrewVersion)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.AssemblyInfo.cs
+C:\Users\Asentaja\Desktop\GameEngeen(AndrewVersion)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Asentaja\Desktop\GameEngeen(AndrewVersion)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.dll
+C:\Users\Asentaja\Desktop\GameEngeen(AndrewVersion)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.pdb
+C:\Users\Asentaja\Desktop\GameEngine(Andrii Soloviov)\GameEngine\WpfLibrary1\bin\Debug\netcoreapp3.1\WpfLibrary1.deps.json
+C:\Users\Asentaja\Desktop\GameEngine(Andrii Soloviov)\GameEngine\WpfLibrary1\bin\Debug\netcoreapp3.1\WpfLibrary1.dll
+C:\Users\Asentaja\Desktop\GameEngine(Andrii Soloviov)\GameEngine\WpfLibrary1\bin\Debug\netcoreapp3.1\WpfLibrary1.pdb
+C:\Users\Asentaja\Desktop\GameEngine(Andrii Soloviov)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.csproj.AssemblyReference.cache
+C:\Users\Asentaja\Desktop\GameEngine(Andrii Soloviov)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\Window1.g.cs
+C:\Users\Asentaja\Desktop\GameEngine(Andrii Soloviov)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1_MarkupCompile.cache
+C:\Users\Asentaja\Desktop\GameEngine(Andrii Soloviov)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1_MarkupCompile.lref
+C:\Users\Asentaja\Desktop\GameEngine(Andrii Soloviov)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\Window1.baml
+C:\Users\Asentaja\Desktop\GameEngine(Andrii Soloviov)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.g.resources
+C:\Users\Asentaja\Desktop\GameEngine(Andrii Soloviov)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asentaja\Desktop\GameEngine(Andrii Soloviov)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.AssemblyInfoInputs.cache
+C:\Users\Asentaja\Desktop\GameEngine(Andrii Soloviov)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.AssemblyInfo.cs
+C:\Users\Asentaja\Desktop\GameEngine(Andrii Soloviov)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Asentaja\Desktop\GameEngine(Andrii Soloviov)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.dll
+C:\Users\Asentaja\Desktop\GameEngine(Andrii Soloviov)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.pdb
+C:\Users\Asentaja\Desktop\МАН\GameEngine(Andrii Soloviov)\GameEngine\WpfLibrary1\bin\Debug\netcoreapp3.1\WpfLibrary1.deps.json
+C:\Users\Asentaja\Desktop\МАН\GameEngine(Andrii Soloviov)\GameEngine\WpfLibrary1\bin\Debug\netcoreapp3.1\WpfLibrary1.dll
+C:\Users\Asentaja\Desktop\МАН\GameEngine(Andrii Soloviov)\GameEngine\WpfLibrary1\bin\Debug\netcoreapp3.1\WpfLibrary1.pdb
+C:\Users\Asentaja\Desktop\МАН\GameEngine(Andrii Soloviov)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.csproj.AssemblyReference.cache
+C:\Users\Asentaja\Desktop\МАН\GameEngine(Andrii Soloviov)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\Window1.g.cs
+C:\Users\Asentaja\Desktop\МАН\GameEngine(Andrii Soloviov)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1_MarkupCompile.cache
+C:\Users\Asentaja\Desktop\МАН\GameEngine(Andrii Soloviov)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1_MarkupCompile.lref
+C:\Users\Asentaja\Desktop\МАН\GameEngine(Andrii Soloviov)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\Window1.baml
+C:\Users\Asentaja\Desktop\МАН\GameEngine(Andrii Soloviov)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.g.resources
+C:\Users\Asentaja\Desktop\МАН\GameEngine(Andrii Soloviov)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asentaja\Desktop\МАН\GameEngine(Andrii Soloviov)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.AssemblyInfoInputs.cache
+C:\Users\Asentaja\Desktop\МАН\GameEngine(Andrii Soloviov)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.AssemblyInfo.cs
+C:\Users\Asentaja\Desktop\МАН\GameEngine(Andrii Soloviov)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Asentaja\Desktop\МАН\GameEngine(Andrii Soloviov)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.dll
+C:\Users\Asentaja\Desktop\МАН\GameEngine(Andrii Soloviov)\GameEngine\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.pdb
